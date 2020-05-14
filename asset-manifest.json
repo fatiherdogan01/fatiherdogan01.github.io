@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0f1c6a8.chunk.css",
+    "main.js": "/static/js/main.de9d2f82.chunk.js",
+    "main.js.map": "/static/js/main.de9d2f82.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3a02c50.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3a02c50.js.map",
+    "static/js/2.b9741b15.chunk.js": "/static/js/2.b9741b15.chunk.js",
+    "static/js/2.b9741b15.chunk.js.map": "/static/js/2.b9741b15.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.625e65ed8fc86cde2267b7e1a26193e3.js": "/precache-manifest.625e65ed8fc86cde2267b7e1a26193e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a0f1c6a8.chunk.css.map": "/static/css/main.a0f1c6a8.chunk.css.map",
+    "static/js/2.b9741b15.chunk.js.LICENSE.txt": "/static/js/2.b9741b15.chunk.js.LICENSE.txt",
+    "static/media/github-pages-kullanimi.md": "/static/media/github-pages-kullanimi.2963e72c.md",
+    "static/media/github-pages-kullanimi.png": "/static/media/github-pages-kullanimi.7be9722f.png",
+    "static/media/react-hooks-kullanimi.md": "/static/media/react-hooks-kullanimi.0beab8a3.md",
+    "static/media/react-hooks-kullanimi.png": "/static/media/react-hooks-kullanimi.514c3359.png",
+    "static/media/react-router-kullanimi.md": "/static/media/react-router-kullanimi.7b270b76.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a02c50.js",
+    "static/js/2.b9741b15.chunk.js",
+    "static/css/main.a0f1c6a8.chunk.css",
+    "static/js/main.de9d2f82.chunk.js"
+  ]
+}
