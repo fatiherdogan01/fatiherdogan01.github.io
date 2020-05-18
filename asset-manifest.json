@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.eee06ffc.chunk.css",
-    "main.js": "/static/js/main.d7843d6e.chunk.js",
-    "main.js.map": "/static/js/main.d7843d6e.chunk.js.map",
+    "main.js": "/static/js/main.65036b23.chunk.js",
+    "main.js.map": "/static/js/main.65036b23.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3a02c50.js",
     "runtime-main.js.map": "/static/js/runtime-main.f3a02c50.js.map",
-    "static/js/2.b9741b15.chunk.js": "/static/js/2.b9741b15.chunk.js",
-    "static/js/2.b9741b15.chunk.js.map": "/static/js/2.b9741b15.chunk.js.map",
+    "static/js/2.167246fd.chunk.js": "/static/js/2.167246fd.chunk.js",
+    "static/js/2.167246fd.chunk.js.map": "/static/js/2.167246fd.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cd0cc4dd8b1abd9aef027d00b039bcdd.js": "/precache-manifest.cd0cc4dd8b1abd9aef027d00b039bcdd.js",
+    "precache-manifest.5330649b2f58f414a37797426375a1e1.js": "/precache-manifest.5330649b2f58f414a37797426375a1e1.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.eee06ffc.chunk.css.map": "/static/css/main.eee06ffc.chunk.css.map",
-    "static/js/2.b9741b15.chunk.js.LICENSE.txt": "/static/js/2.b9741b15.chunk.js.LICENSE.txt",
+    "static/js/2.167246fd.chunk.js.LICENSE.txt": "/static/js/2.167246fd.chunk.js.LICENSE.txt",
     "static/media/github-pages-kullanimi.md": "/static/media/github-pages-kullanimi.2963e72c.md",
     "static/media/github-pages-kullanimi.png": "/static/media/github-pages-kullanimi.7be9722f.png",
     "static/media/react-hooks-kullanimi.md": "/static/media/react-hooks-kullanimi.0beab8a3.md",
@@ -20,8 +20,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f3a02c50.js",
-    "static/js/2.b9741b15.chunk.js",
+    "static/js/2.167246fd.chunk.js",
     "static/css/main.eee06ffc.chunk.css",
-    "static/js/main.d7843d6e.chunk.js"
+    "static/js/main.65036b23.chunk.js"
   ]
 }
